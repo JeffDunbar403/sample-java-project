@@ -12,6 +12,8 @@ import lombok.Setter;
 /**
  * The main class of the application. It contains the main() method,
  * the first method called.
+ * TEST FOR GIT PUSH!!!
+ * TEST FOR GIT PUSH!!!
  */
 @NoArgsConstructor
 @AllArgsConstructor
